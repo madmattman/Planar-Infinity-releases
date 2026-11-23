@@ -2,7 +2,9 @@
 
 Signed release builds of the Planar Infinity tablet app.
 
-**Latest:** [release.v1.6.apk](https://raw.githubusercontent.com/madmattman/planar-infinity-releases/main/release.v1.6.apk), version 1.6
+**Latest:** [release.v1.7.apk](https://raw.githubusercontent.com/madmattman/planar-infinity-releases/main/release.v1.7.apk), version 1.7
+
+Earlier releases stay here too, so a tablet can go back to one.
 
 ## Installing
 
@@ -18,7 +20,7 @@ with the version the tablet is running:
 
 Older builds – the ones whose logo menu shows a name such as
 "Nov23 BluetoothPermissions" instead of a version number – still check
-zeroplayer.com, so install 1.6 on those tablets by hand once.
+zeroplayer.com, so install the latest release on those tablets by hand once.
 
 ## How releases are named
 
