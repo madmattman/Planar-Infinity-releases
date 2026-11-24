@@ -2,7 +2,7 @@
 
 Signed release builds of the Planar Infinity tablet app.
 
-**Latest:** [release.v1.7.apk](https://raw.githubusercontent.com/madmattman/planar-infinity-releases/main/release.v1.7.apk), version 1.7
+**Latest:** [release.v1.8.apk](https://raw.githubusercontent.com/madmattman/planar-infinity-releases/main/release.v1.8.apk), version 1.8
 
 Earlier releases stay here too, so a tablet can go back to one.
 
